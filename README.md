@@ -5,11 +5,6 @@
 <h1 align="center">Hi 👋, I'm Israel Bonilla De la cruz</h1>
 <h3 align="center">As a Back-end Developer with a background in Mechanical Engineering, I am passionate about programming and creating innovative and effective solutions. I specialize in providing effective technical solutions to complex problems in multidisciplinary projects.</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isrita&label=Profile%20views&color=0e75b6&style=flat" alt="isrita" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isrita" alt="isrita" /></a> </p>
-
 - 🔭 I am currently studying at the University of Engineering and Technology (UTEC), in Lima - Perú. [Mechanical Engineering](https://app.utec.edu.pe/sites/default/files/pdf/malla_2018_-_mecanica_-_impresa.pdf)
 
 - 🌱 I’m currently learning about full stack developer. **Bootcamp Full-Stack Software Developer 18w**
