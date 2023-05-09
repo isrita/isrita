@@ -35,7 +35,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
- <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=isrita&" alt="isrita" />
+ <img class="img"  src="https://github-readme-stats.vercel.app/api?username=isrita&show_icons=true&locale=en" alt="isrita" />
 
 </div>
 
