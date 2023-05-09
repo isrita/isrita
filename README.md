@@ -25,7 +25,7 @@
   </a>
   <a href="https://instagram.com/israbonilla00" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="israbonilla00" height="30" width="40" />
-<a href="javascript:void(0)" onclick="navigator.clipboard.writeText('israel.bonillad@gmail.com')"><strong>israel.bonillad@gmail.com</strong></a>
+<a href="javascript:void(0)" onclick="navigator.clipboard.writeText('israel.bonillad@gmail.com'); return false;"><strong>israel.bonillad@gmail.com</strong></a>
 </p>
 
 <!-- Skills -->
