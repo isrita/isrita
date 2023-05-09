@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=228B22&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+welcome+to+my+page+💻;)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Israel Bonilla De la cruz</h1>
+<h1 align="center">👋, I'm Israel Bonilla De la cruz</h1>
 <h3 align="center">As a Back-end Developer with a background in Mechanical Engineering, I am passionate about programming and creating innovative and effective solutions. I specialize in providing effective technical solutions to complex problems in multidisciplinary projects.</h3>
 
 - 🔭 I am currently studying at the University of Engineering and Technology (UTEC), in Lima - Perú. [Mechanical Engineering](https://app.utec.edu.pe/sites/default/files/pdf/malla_2018_-_mecanica_-_impresa.pdf)
