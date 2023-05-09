@@ -1,4 +1,6 @@
 <!-- Header -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=228B22&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+welcome+to+my+page+💻;)](https://git.io/typing-svg)
 <p align="center">
   <samp>
@@ -48,5 +50,4 @@
 <a href="javascript:void(0)" onclick="navigator.clipboard.writeText('israel.bonillad@gmail.com'); return false;"><strong>israel.bonillad@gmail.com</strong></a>
 </p>
 
-
-<img width=100% src="[[https://64.media.tumblr.com/ecb4330a985e3865fb1798f299bc8a1f/tumblr_o122ijgRoD1u70edno1_500.gifv](https://pin.it/2PfD4Sg)](https://media.tenor.com/DcSQGcWzjuUAAAAC/loading-bar.gif)">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
