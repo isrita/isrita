@@ -7,10 +7,10 @@
     <h3 align="center">As a Back-end Developer with a background in Mechanical Engineering, I am passionate about programming and creating innovative and effective solutions. I specialize in providing effective technical solutions to complex problems in multidisciplinary projects.</h3>
     <br>
     <ul>
-      <li>🔭 I am currently studying at the University of Engineering and Technology (UTEC), in Lima - Perú. <a href="https://app.utec.edu.pe/sites/default/files/pdf/malla_2018_-_mecanica_-_impresa.pdf">Mechanical Engineering</a></li>
       <li>🌱 I’m currently learning about full stack developer. <b>Bootcamp Full-Stack Software Developer 18w</b></li>
       <li>💬 Ask me about database creation and table management. <b>Flask, SQL, APIs</b></li>
       <li>📫 How to reach me <b>israel.bonillad@gmail.com</b></li>
+      <li>🔭 I am currently studying at the University of Engineering and Technology (UTEC), in Lima - Perú. <a href="https://app.utec.edu.pe/sites/default/files/pdf/malla_2018_-_mecanica_-_impresa.pdf">Mechanical Engineering</a></li>
       <li>⚡ Fun fact <b>When I'm not coding, you can find me hitting the waves on my surfboard, serving up aces on the tennis court, or scoring goals on the soccer field. I'm a passionate sports enthusiast who loves to stay active and have fun!</b></li>
     </ul>
   </samp>
@@ -24,6 +24,9 @@
   </a>
   <a href="https://instagram.com/israbonilla00" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="israbonilla00" height="30" width="40" />
+  </a>
+   <a href="mailto:israel.bonillad@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="israel.bonillad@gmail.com" height="30" width="40"/>
   </a>
 </p>
 
