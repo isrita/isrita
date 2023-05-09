@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
+  <img width=100% src="https://64.media.tumblr.com/ecb4330a985e3865fb1798f299bc8a1f/tumblr_o122ijgRoD1u70edno1_500.gifv">
   <br><br>
   <samp>
     <h1 align="center">👋, I'm Israel Bonilla De la cruz</h1>
