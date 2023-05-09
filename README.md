@@ -10,9 +10,9 @@
     <ul>
       <li>🌱 I’m currently learning about full stack developer. <b>Bootcamp Full-Stack Software Developer 18w</b></li>
       <li>💬 Ask me about database creation and table management. <b>Flask, SQL, APIs</b></li>
-      <li>📫 How to reach me <b>israel.bonillad@gmail.com</b></li>
       <li>🔭 I am finishing my studies at the University of Engineering and Technology (UTEC), in Lima - Perú. <a href="https://app.utec.edu.pe/sites/default/files/pdf/malla_2018_-_mecanica_-_impresa.pdf">Mechanical Engineering</a></li>
       <li>⚡ Fun fact <b>When I'm not coding, you can find me hitting the waves on my surfboard, serving up aces on the tennis court, or scoring goals on the soccer field. I'm a passionate sports enthusiast who loves to stay active and have fun!</b></li>
+      <li>📫 How to reach me <b>israel.bonillad@gmail.com</b></li>
     </ul>
   </samp>
 </p>
