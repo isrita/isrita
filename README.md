@@ -38,4 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isrita&" alt="isrita" /></p>
 
-<img width=100% src="[https://64.media.tumblr.com/ecb4330a985e3865fb1798f299bc8a1f/tumblr_o122ijgRoD1u70edno1_500.gifv](https://pin.it/2PfD4Sg)">
+<img width=100% src="[[https://64.media.tumblr.com/ecb4330a985e3865fb1798f299bc8a1f/tumblr_o122ijgRoD1u70edno1_500.gifv](https://pin.it/2PfD4Sg)](https://media.tenor.com/DcSQGcWzjuUAAAAC/loading-bar.gif)">
