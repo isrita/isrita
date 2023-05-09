@@ -15,16 +15,7 @@
   </samp>
 </p>
 
-<!-- Connect with me -->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/israel-bonilla-de-la-cruz-3548b3213" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="israel-bonilla-de-la-cruz-3548b3213" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/israbonilla00" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="israbonilla00" height="30" width="40" />
-<a href="javascript:void(0)" onclick="navigator.clipboard.writeText('israel.bonillad@gmail.com'); return false;"><strong>israel.bonillad@gmail.com</strong></a>
-</p>
+
 
 </br>
 </br>
@@ -46,5 +37,16 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=isrita&bg_color=030303&color=76eadc&line=25a2a0&point=b1a9a9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </br>
+<!-- Connect with me -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/israel-bonilla-de-la-cruz-3548b3213" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="israel-bonilla-de-la-cruz-3548b3213" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/israbonilla00" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="israbonilla00" height="30" width="40" />
+<a href="javascript:void(0)" onclick="navigator.clipboard.writeText('israel.bonillad@gmail.com'); return false;"><strong>israel.bonillad@gmail.com</strong></a>
+</p>
+
 
 <img width=100% src="[[https://64.media.tumblr.com/ecb4330a985e3865fb1798f299bc8a1f/tumblr_o122ijgRoD1u70edno1_500.gifv](https://pin.it/2PfD4Sg)](https://media.tenor.com/DcSQGcWzjuUAAAAC/loading-bar.gif)">
