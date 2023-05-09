@@ -5,13 +5,13 @@
   <samp>
     <h1 align="center">👋, I'm Israel Bonilla De la cruz</h1>
     <h3 align="center">About Me</h3>
-    <p align="center">Hi, I'm Israel Bonilla De la cruz, a Back-end Developer with a background in Mechanical Engineering. I'm passionate about programming and creating innovative and effective solutions. I    specialize in providing effective technical solutions to complex problems in multidisciplinary projects.</p>
+    <h2 align="center">Hi, I'm Israel Bonilla De la cruz, a Back-end Developer with a background in Mechanical Engineering. I'm passionate about programming and creating innovative and effective solutions. I    specialize in providing effective technical solutions to complex problems in multidisciplinary projects.</h2>
     <br>
     <ul>
       <li>🌱 I’m currently learning about full stack developer. <b>Bootcamp Full-Stack Software Developer 18w</b></li>
       <li>💬 Ask me about database creation and table management. <b>Flask, SQL, APIs</b></li>
       <li>📫 How to reach me <b>israel.bonillad@gmail.com</b></li>
-      <li>🔭 I am currently studying at the University of Engineering and Technology (UTEC), in Lima - Perú. <a href="https://app.utec.edu.pe/sites/default/files/pdf/malla_2018_-_mecanica_-_impresa.pdf">Mechanical Engineering</a></li>
+      <li>🔭 I am finishing my studies at the University of Engineering and Technology (UTEC), in Lima - Perú. <a href="https://app.utec.edu.pe/sites/default/files/pdf/malla_2018_-_mecanica_-_impresa.pdf">Mechanical Engineering</a></li>
       <li>⚡ Fun fact <b>When I'm not coding, you can find me hitting the waves on my surfboard, serving up aces on the tennis court, or scoring goals on the soccer field. I'm a passionate sports enthusiast who loves to stay active and have fun!</b></li>
     </ul>
   </samp>
