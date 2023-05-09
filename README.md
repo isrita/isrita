@@ -27,7 +27,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="israbonilla00" height="30" width="40" />
   </a>
    <a href="mailto:israel.bonillad@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="israel.bonillad@gmail.com" height="30" width="40"/>
+    <img align="center" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/128/Gmail-512.png" alt="Email" height="30" width="40"/>
   </a>
 </p>
 
