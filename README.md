@@ -25,10 +25,7 @@
   </a>
   <a href="https://instagram.com/israbonilla00" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="israbonilla00" height="30" width="40" />
-  </a>
-   <a href="mailto:israel.bonillad@gmail.com" target="_blank">
-    <img align="center" src="israel.bonillad@gmail.com" alt="Email" height="30" width="40"/>
-  </a>
+  <a href="mailto:israel.bonillad@gmail.com" target="_blank"><strong>israel.bonillad@gmail.com</strong></a>
 </p>
 
 <!-- Skills -->
