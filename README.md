@@ -9,7 +9,7 @@
     <h4 align="center">Hi, I'm a Full-stack developer with a background in Mechanical Engineering. I'm passionate about programming and creating innovative and effective solutions. I    specialize in providing effective technical solutions to complex problems in multidisciplinary projects.</h2>
     <br>
     <ul>
-      <p>🌱 I’m currently learning about full stack developer. <b>Bootcamp Full-Stack Software Developer 18w</b></p>
+      <p>🌱 I’m currently learning about full stack development. <b>Bootcamp Full-Stack Software Developer 18w</b></p>
       <p>💬 Ask me about database creation and table management. <b>Flask, SQL, APIs</b></li>
       <p>🔭 I am finishing my studies at the University of Engineering and Technology (UTEC), in Lima - Perú. <a href="https://app.utec.edu.pe/sites/default/files/pdf/malla_2018_-_mecanica_-_impresa.pdf">Mechanical Engineering</a></p>
       <p>⚡ When I'm not coding, you can find me hitting the waves on my surfboard, serving up aces on the tennis court, or scoring goals on the soccer field. I'm a passionate sports enthusiast who loves to stay active and have fun!</p>
