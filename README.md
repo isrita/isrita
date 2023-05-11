@@ -6,7 +6,7 @@
   <samp>
     <h1 align="center">👋, I'm Israel Bonilla</h1>
     <h3 align="center">About Me</h3>
-    <h4 align="center">Hi, I'm a Back-end Developer with a background in Mechanical Engineering. I'm passionate about programming and creating innovative and effective solutions. I    specialize in providing effective technical solutions to complex problems in multidisciplinary projects.</h2>
+    <h4 align="center">Hi, I'm a Full-stack developer with a background in Mechanical Engineering. I'm passionate about programming and creating innovative and effective solutions. I    specialize in providing effective technical solutions to complex problems in multidisciplinary projects.</h2>
     <br>
     <ul>
       <p>🌱 I’m currently learning about full stack developer. <b>Bootcamp Full-Stack Software Developer 18w</b></p>
