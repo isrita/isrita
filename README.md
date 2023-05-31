@@ -15,10 +15,10 @@
       <p>⚡ When I'm not coding, you can find me hitting the waves on my surfboard, serving up aces on the tennis court, or scoring goals on the soccer field. I'm a passionate sports enthusiast who loves to stay active and have fun!</p>
     </ul>
   </samp>
-<a href="https://github.com/Bona1204">
+<a  align="center" href="https://github.com/Bona1204">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=isrita&theme=transparent&show_icons=true&hide_border=true" />
 </a>
-<a href="https://github.com/Bona1204">
+<a  align="center" href="https://github.com/Bona1204">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isrita&theme=transparent&show_icons=true&hide_border=true&langs_count=4&layout=compact" />
 </a>
 </p>
