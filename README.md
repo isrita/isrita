@@ -12,20 +12,18 @@
       <p>🌱 I’m currently learning Python. <b>Data analysis with Django</b></p>
       <p>💬 Ask me about database creation and table management. <b>Flask, SQL, APIs</b></li>
       <p>🔭 I am finishing my studies at the University of Engineering and Technology (UTEC), in Lima - Perú. <a href="https://app.utec.edu.pe/sites/default/files/pdf/malla_2018_-_mecanica_-_impresa.pdf">Mechanical Engineering</a></p>
-      <p>⚡ I am passionate about sports and my favorite is surfing. I enjoy touring the coasts of my city in search of the best waves</p>
+      <p>⚡ I am passionate about sports and my favorite is surfing. I enjoy touring the coasts of my city in search of the best waves.</p>
     </ul>
   </samp>
 <p align="center">
   <a href="https://github.com/Bona1204">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=isrita&theme=transparent&show_icons=true&hide_border=true" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Bona1204">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isrita&theme=transparent&show_icons=true&hide_border=true&langs_count=4&layout=compact" />
   </a>
 </p>
+ 
 </p>
 <!-- Main Skills -->
 </div>
