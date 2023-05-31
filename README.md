@@ -4,33 +4,30 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=228B22&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+welcome+to+my+page+💻;)](https://git.io/typing-svg)
 <p align="center">
   <samp>
-    <h1 align="center">👋, I'm Israel Bonilla</h1>
+    <h1 align="center">I'm Israel Bonilla 👋</h1>
     <h3 align="center">About Me</h3>
-    <h4 align="center">Hi, I'm a Full-stack developer with a background in Mechanical Engineering. I'm passionate about programming and creating innovative and effective solutions. I    specialize in providing effective technical solutions to complex problems in multidisciplinary projects.</h2>
+    <h4 align="center">Hi, I'm a Full-stack developer with a background in Mechanical Engineering. I specialize in creating innovative solutions and leveraging new technologies to solve complex problems in multidisciplinary projects.</h2>
     <br>
     <ul>
-      <p>🌱 I’m currently learning about full stack development. <b>Bootcamp Full-Stack Software Developer 18w</b></p>
+      <p>🌱 I’m currently learning Python. <b>Data analysis with Django</b></p>
       <p>💬 Ask me about database creation and table management. <b>Flask, SQL, APIs</b></li>
       <p>🔭 I am finishing my studies at the University of Engineering and Technology (UTEC), in Lima - Perú. <a href="https://app.utec.edu.pe/sites/default/files/pdf/malla_2018_-_mecanica_-_impresa.pdf">Mechanical Engineering</a></p>
       <p>⚡ When I'm not coding, you can find me hitting the waves on my surfboard, serving up aces on the tennis court, or scoring goals on the soccer field. I'm a passionate sports enthusiast who loves to stay active and have fun!</p>
     </ul>
   </samp>
+  ---
+<a href="https://github.com/Bona1204">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=isrita&theme=transparent&show_icons=true&hide_border=true" />
+</a>
+<a href="https://github.com/Bona1204">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isrita&theme=transparent&show_icons=true&hide_border=true&langs_count=4&layout=compact" />
+</a>
 </p>
-
-
-
+---
 </br>
 </br>
 </br>
 
-<div align="center" dir="auto" <img style="max-width: 100%;">
-<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs?username=isrita&show_icons=true&locale=en&layout=compact" alt="isrita"/>
-&nbsp;
-&nbsp;
-&nbsp;
- <img class="img"  src="https://github-readme-stats.vercel.app/api?username=isrita&show_icons=true&locale=en" alt="isrita" />
-
-</div>
  <br></br>
 <!-- Main Skills -->
 </div>
