@@ -5,7 +5,7 @@
   <samp>
     <h1 align="center">I'm Israel Bonilla 👋</h1>
     <h3 align="center">About Me</h3>
-    <h4 align="center">Hi, I'm a Full-stack developer with a background in Mechanical Engineering. I specialize in creating innovative solutions and leveraging new technologies to solve complex problems in multidisciplinary projects.</h2>
+    <h4 align="center">I am a Data Engineer with a strong foundation in Mechanical Engineering, specializing in the construction and optimization of cloud data architectures using Databricks and Azure. My expertise lies in transforming complex data into actionable insights, with a focus on Data Lakehouses and advanced ETL processes in both batch and streaming environments. I excel in leading multidisciplinary projects, leveraging my technical skills in Python, Spark, and automation to deliver scalable and efficient solutions.</h2>
     <br>
     <ul>
       <p>🌱 I’m currently learning Python. <b>Data analysis with Django</b></p>
