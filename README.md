@@ -10,7 +10,7 @@
     <ul>
       <p>🌱 I’m currently learning Python. <b>Data analysis with Django</b></p>
       <p>💬 Ask me about database creation and table management. <b>Flask, SQL, APIs</b></li>
-      <p>🔭 I am finished my studies at the University of Engineering and Technology (UTEC), in Lima - Perú. <a href="https://app.utec.edu.pe/sites/default/files/pdf/malla_2018_-_mecanica_-_impresa.pdf">Mechanical Engineering</a></p>
+      <p>🔭 I have completed my studies in Mechanical Engineering at the University of Engineering and Technology (UTEC) in Lima, Peru. <a href="https://app.utec.edu.pe/sites/default/files/pdf/malla_2018_-_mecanica_-_impresa.pdf">Mechanical Engineering</a></p>
       <p>⚡ I am passionate about sports, and one activity that truly captivates me is surfing. Exploring the coastal areas of my city in search of the perfect waves.</p>
     </ul>
   </samp>
